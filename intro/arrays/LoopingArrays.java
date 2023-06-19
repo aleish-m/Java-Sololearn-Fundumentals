@@ -1,4 +1,4 @@
-package arrays;
+package intro.arrays;
 
 /*
   Code Challenge - Annual Revenue

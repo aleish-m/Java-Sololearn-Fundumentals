@@ -1,4 +1,4 @@
-package basicconcepts;
+package intro.basicconcepts;
 public class Printing {
   public static void main(String[] args) {
     System.out.println("Name:");

@@ -1,4 +1,4 @@
-package basicconcepts;
+package intro.basicconcepts;
 public class Math {
   public static void main(String[] args) {
     int wins = 54;
